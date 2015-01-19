@@ -1,0 +1,19 @@
+An integrated development environment (IDE) or interactive development environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion.
+
+Eclipse
+In computer programming, Eclipse is IDE (integrated development environment). It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be used to develop packages for the software Mathematica. Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+NetBeans
+NetBeans is an integrated development environment for developing primarily with Java, but also with other languages, in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM. NetBeans IDE is an integrated development environment with open source.
+
+Xcode
+Xcode is IDE containing a suite of software development tools developed by Apple for developing software for OS X and iOS. First released in 2003, the latest stable release is version 6.1 and is available via the Mac App Store free of charge for Mac OS X Lion, OS X Mountain Lion, OS X Mavericks and OS X Yosemite users.Registered developers can download preview releases and previous versions of the suite through the Apple Developer website.However, Apple recently made a beta version of version 6.x of the software available to those of the public with Apple Developer accounts.
+
+MonoDevelop
+MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows. Its primary focus is development of projects that use Mono and .NET frameworks. MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, source control, a graphical user interface (GUI) and Web designer. MonoDevelop integrates a Gtk# GUI designer called Stetic.It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala, and Visual Basic.NET.
+
+FlashDevelop
+FlashDevelop is environment for development of Adobe Flash websites, web applications and desktop applications. The resulting applications run in Adobe Flash Player or the Adobe Integrated Runtime, on Microsoft Windows, Mac OS X, Android or iOS.
+FlashDevelop is free and open source software, mostly written in C# and is built on the efficient Scintilla editor component. It is extensible with a plugin architecture and is a .NET Framework 2.0 application only available for Microsoft Windows
+

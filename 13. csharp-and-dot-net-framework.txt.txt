@@ -1,0 +1,4 @@
+C# and VB.NET are syntactically very different, that is where the differences mostly end. Microsoft developed both of these languages to be part of the same .NET Framework development platform.
+C# and Visual Basic .NET are the two primary languages used to program on the .NET Framework.
+As the name suggests, the C# syntax is based on the core C programming language
+VB.NET has its roots in the BASIC language of the '60s with its name being an acronym for "Beginner's All-purpose Symbolic Instruction Code". In its beginning, BASIC was used in the college community as a "basic" language for first exposure to computer programming and the acronym represented the language accurately.

@@ -1,0 +1,18 @@
+Java
+Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented,[11] and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that code that runs on one platform does not need to be recompiled to run on another.
+Both Java and C# support signed integers with bit widths of 8, 16, 32 and 64 bits. They use the same name/aliases for the types, except for the 8-bit integer which is called a byte in Java and a sbyte (signed byte) in C#.
+Both languages are statically typed with class-based object orientation. In Java the primitive types are special in that they are not object-oriented and they could not have been defined using the language itself. They also do not share a common ancestor with reference types. The Java reference types all derive from a common root type. C# has a unified type system in which all types ultimately derive from a common root type.
+
+PHP
+PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers. Originally created by Rasmus Lerdorf in 1994, the reference implementation of PHP (powered by the Zend Engine) is now produced by The PHP Group. While PHP originally stood for Personal Home Page, it now stands for PHP: Hypertext Preprocessor, which is a recursive backronym.
+
+Perl
+Perl is a family of high-level, general-purpose, interpreted, dynamic programming languages. The languages in this family include Perl 5 and Perl 6.
+Though Perl is not officially an acronym, there are various backronyms in use, the most well-known being "Practical Extraction and Reporting Language". Perl was originally developed by Larry Wall in 1987 as a general-purpose Unix scripting language to make report processing easier. Since then, it has undergone many changes and revisions. The latest major stable revision of Perl 5 is 5.20.1, released in September 2014. Perl 6, which began as a redesign of Perl 5 in 2000, eventually evolved into a separate language. Both languages continue to be developed independently by different development teams and liberally borrow ideas from one another.
+
+SQL
+is a special-purpose programming language designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). Originally based upon relational algebra and tuple relational calculus, SQL consists of a data definition language and a data manipulation language. The scope of SQL includes data insert, query, update and delete, schema creation and modification, and data access control. Although SQL is often described as, and to a great extent is, a declarative language (4GL), it also includes procedural elements.
+
+Python
+Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than would be possible in languages such as C++ or Java. The language provides constructs intended to enable clear programs on both a small and large scale.
+Python supports multiple programming paradigms, including object-oriented, imperative and functional programming or procedural styles. It features a dynamic type system and automatic memory management and has a large and comprehensive standard library.
